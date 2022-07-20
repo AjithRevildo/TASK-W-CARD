@@ -1,0 +1,12 @@
+#text{
+    border: none;
+  border-bottom: 2px solid rgb(167, 167, 167);
+}
+#email{
+    border: none;
+  border-bottom: 2px solid rgb(167, 167, 167);
+}
+#gra{
+  background: rgb(51,42,217);
+  background: linear-gradient(90deg, rgba(51,42,217,1) 0%, rgba(35,4,121,1) 0%, rgba(97,4,184,1) 59%, rgba(16,0,255,1) 100%);
+}

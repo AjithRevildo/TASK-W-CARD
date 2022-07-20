@@ -1,0 +1,14 @@
+#parent2{
+    position:relative;
+   
+}
+#child2{
+    position:relative;
+    bottom:45px;
+    right:15px;
+    border-radius: 50%;
+}
+
+#bac{
+    background-color:  rgb(243, 243, 243);
+}
